@@ -1,0 +1,7 @@
+:root{--paper:#f7efdc;--ink:#3a2414;--red:#b33a1f;--line:#d9c7a3}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 Georgia,"Times New Roman",serif}
+main{max-width:720px;margin:0 auto;padding:40px 20px 60px}
+h1{font-size:30px;margin:0 0 4px}h2{font-size:20px;margin:32px 0 8px;color:var(--red)}
+.sub{font-style:italic;opacity:.75;margin:0 0 24px}a{color:var(--red)}
+hr{border:0;border-top:1px solid var(--line);margin:36px 0}nav a{margin-right:16px}
+img.icon{width:88px;height:88px;border-radius:20px;box-shadow:0 4px 14px rgba(0,0,0,.25);float:right;margin:0 0 12px 16px}
